@@ -4,8 +4,8 @@ Meu papel é representar esse pedido como uma classe, com os principais atributo
 
 Criei uma classe chamada Pedido com:
 
-Propriedade pública NumeroPedido (string).
-Propriedade pública NomeCliente (string).
-Propriedade pública Status (string).
-Um método chamado AtualizarStatus(string novoStatus) para alterar o status.
-Um método chamado ExibirPedido() que mostre os dados na tela.
+- Propriedade pública NumeroPedido (string).
+- Propriedade pública NomeCliente (string).
+- Propriedade pública Status (string).
+- Um método chamado AtualizarStatus(string novoStatus) para alterar o status.
+- Um método chamado ExibirPedido() que mostre os dados na tela.
